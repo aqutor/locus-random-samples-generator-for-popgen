@@ -1,10 +1,10 @@
 # Locus Random Samples Generator for POPGENE
+
 **Locus Random Samples Generator for POPGENE** is created to locus random sample experiments, and create a compatible file for POPGENE.
 
 
 
 **[POPGENE](https://sites.ualberta.ca/~fyeh/popgene_info.html)** is a joint project development by **Francis Yeh**, [**Rongcai Yang**](http://www.ales.ualberta.ca/afns/FacultyandStaff/AcademicStaffProfiles/RongCaiYang.aspx) and **Timothy Boyle**. It is a user-friendly computer freeware for the analysis of genetic variation among and within populations using co-dominant and dominant markers.
-
 
 ## Requirements
 
@@ -28,20 +28,19 @@ Windows
 $ python main.py
 ```
 
-Note: your terminal should be in the same path as the `main.py` is in. You have to create all the necessary folders in advance.
+**Note**: your terminal should be in the same path as the `main.py` is in. You have to create all the necessary folders in advance. If you want to run the same experiment , please empty the output folder/file first.
 
-The file is saved in the sub-directory `results/'experiment times'/'sampling size'/`of `main.py` for output type 1.
+- The file is saved in the sub-directory `results/'experiment times'/'sampling size'/`of `main.py` for output type 1.
+- The file is saved in the sub-directory `results/`of `main.py` for output type 2.
 
-The file is saved in the sub-directory `results/`of `main.py` for output type 2.
 
-If you want to run the same experiment , please empty the output folder/file first.
+
 **Examples**
 
 If you want to run 100 tests with 25 output samples, 
 
-For output type 1, you have to create the folder `results/100/25/`  in advance.
-
-For output type 12, you have to create the folder `results/` in advance.
+- For output type 1, you have to create the folder `results/100/25/`  in advance.
+- For output type 12, you have to create the folder `results/` in advance.
 
 
 
@@ -78,4 +77,3 @@ Please use *issues* on Github.com properly. To resolve every issue, you should i
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2020 Zhou Aotian <https://withz.at/>
-
