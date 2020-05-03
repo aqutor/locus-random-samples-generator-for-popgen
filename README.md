@@ -1,9 +1,9 @@
-**[POPGENE](https://sites.ualberta.ca/~fyeh/popgene_info.html)** is a joint project development by **Francis Yeh**, [**Rongcai Yang**](http://www.ales.ualberta.ca/afns/FacultyandStaff/AcademicStaffProfiles/RongCaiYang.aspx)and **Timothy Boyle**. It is a user-friendly computer freeware for the analysis of genetic variation among and within populations using co-dominant and dominant markers.
-
-
-
+# Locus Random Samples Generator for POPGENE
 **Locus Random Samples Generator for POPGENE** is created to locus random sample experiments, and create a compatible file for POPGENE.
 
+
+
+**[POPGENE](https://sites.ualberta.ca/~fyeh/popgene_info.html)** is a joint project development by **Francis Yeh**, [**Rongcai Yang**](http://www.ales.ualberta.ca/afns/FacultyandStaff/AcademicStaffProfiles/RongCaiYang.aspx) and **Timothy Boyle**. It is a user-friendly computer freeware for the analysis of genetic variation among and within populations using co-dominant and dominant markers.
 
 
 ## Requirements
