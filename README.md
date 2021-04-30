@@ -40,7 +40,7 @@ $ python main.py
 If you want to run 100 tests with 25 output samples, 
 
 - For output type 1, you have to create the folder `results/100/25/`  in advance.
-- For output type 12, you have to create the folder `results/` in advance.
+- For output type 2, you have to create the folder `results/` in advance.
 
 
 
